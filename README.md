@@ -74,4 +74,4 @@ Feel free to fork this project and submit PRs. Suggestions and improvements are 
 
 ## 🧑‍💻 Author
 
-Developed with 🖤 by [YourNameHere](https://github.com/yourusername)
+Developed with 🖤 by [VulnEdge](https://github.com/VulnEdge)

@@ -37,7 +37,7 @@ Birth Year (YYYY): 1990
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/W0rdL1st3r.git
+git clone https://github.com/VulnEdge/W0rdL1st3r.git
 cd W0rdL1st3r
 
 # Run the tool (make sure Python 3 is installed)
